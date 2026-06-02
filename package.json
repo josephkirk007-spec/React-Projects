@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/josephkirk007-spec/react-prac", 
+  "homepage": "https://github.com/josephkirk007-spec/React-Projects/tree/main/student-app", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
