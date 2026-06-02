@@ -1,5 +1,4 @@
 import {useState} from 'react';
-import './App.css';
 
 export default function StudentForm({addStudent}) {
   const [name, setName] = useState('');

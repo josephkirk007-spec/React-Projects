@@ -1,6 +1,3 @@
-import "./App.css";
-
-
 export default function StudentCard({ student, deleteStudent }) {
     return (
         <div className="student-card">
