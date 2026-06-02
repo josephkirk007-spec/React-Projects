@@ -1,6 +1,6 @@
 import StudentCard from "./StudentCard";
 
-export default function StudentList({ students }) {
+export default function StudentList({ students, deleteStudent }) {
   return (
     <div className="student-list">
         <h2>Student List</h2>
